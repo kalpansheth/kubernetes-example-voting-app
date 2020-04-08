@@ -1,3 +1,4 @@
+#pod file
 apiVersion: v1
 kind: Pod
 metadata:
